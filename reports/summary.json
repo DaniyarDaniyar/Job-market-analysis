@@ -71,22 +71,22 @@
     {
       "method": "naive",
       "mae": 10531.0,
-      "seconds": 2.7722000027097238e-05,
-      "python_peak_bytes": 504,
+      "seconds": 3.0400013201870024e-05,
+      "python_peak_bytes": 480,
       "holdout_days": 7
     },
     {
       "method": "moving_average",
       "mae": 10592.57142857143,
-      "seconds": 0.00011230999996314495,
-      "python_peak_bytes": 1326,
+      "seconds": 0.0001500000071246177,
+      "python_peak_bytes": 1270,
       "holdout_days": 7
     },
     {
       "method": "linear_trend",
       "mae": 10938.513343799057,
-      "seconds": 0.0010517040000195266,
-      "python_peak_bytes": 4020,
+      "seconds": 0.0076253000006545335,
+      "python_peak_bytes": 3996,
       "holdout_days": 7
     }
   ],
