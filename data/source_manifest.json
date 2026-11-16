@@ -1,0 +1,10 @@
+{
+  "dataset": "arshkon/linkedin-job-postings",
+  "version": 13,
+  "title": "LinkedIn Job Postings (2023 - 2024)",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://www.kaggle.com/datasets/arshkon/linkedin-job-postings",
+  "access_date": "2026-11-09",
+  "postings_sha256": "de33f27c8d1b226014e0cede003404e9b0acb66db718671fda9b3e3538eca6ea",
+  "postings_bytes": 516843769
+}

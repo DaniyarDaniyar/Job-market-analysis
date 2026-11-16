@@ -1,0 +1,41 @@
+role,skill,jobs,skill_rank
+Data & analytics,Communication,3915,1
+Data & analytics,Excel,2196,2
+Data & analytics,SQL,2017,3
+Data & analytics,Leadership,1730,4
+Data & analytics,Python,1421,5
+Engineering,Communication,5931,1
+Engineering,Leadership,2529,2
+Engineering,Customer service,1717,3
+Engineering,Excel,1548,4
+Engineering,Project management,1340,5
+Finance,Accounting,2916,1
+Finance,Communication,1991,2
+Finance,Excel,1453,3
+Finance,Leadership,1049,4
+Finance,Sales,676,5
+Healthcare,Nursing,5844,1
+Healthcare,Communication,3643,2
+Healthcare,Leadership,2352,3
+Healthcare,Customer service,1692,4
+Healthcare,Excel,545,5
+Operations & service,Communication,3385,1
+Operations & service,Customer service,3091,2
+Operations & service,Sales,2377,3
+Operations & service,Leadership,1711,4
+Operations & service,Excel,938,5
+Other,Communication,32171,1
+Other,Leadership,16647,2
+Other,Customer service,13930,3
+Other,Sales,13120,4
+Other,Excel,9426,5
+Sales & marketing,Sales,9655,1
+Sales & marketing,Communication,6340,2
+Sales & marketing,Customer service,3267,3
+Sales & marketing,Leadership,2318,4
+Sales & marketing,Excel,1338,5
+Software & IT,Communication,2622,1
+Software & IT,SQL,1741,2
+Software & IT,Python,1433,3
+Software & IT,Java,1418,4
+Software & IT,AWS,1305,5

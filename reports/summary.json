@@ -1,0 +1,94 @@
+{
+  "rows": 123849,
+  "source_bytes": 516843769,
+  "salary_known": 36044,
+  "salary_coverage_pct": 29.103182100784018,
+  "median_salary_usd": 81510.0,
+  "iqr_low": -57500.0,
+  "iqr_high": 234500.0,
+  "iqr_outliers": 952,
+  "date_min": "2023-12-05",
+  "date_max": "2024-04-20",
+  "observed_run_days": 41,
+  "observed_run_start": "2024-03-11",
+  "observed_run_end": "2024-04-20",
+  "sql_pandas_equal": true,
+  "skills_coverage_pct": 82.12258476047445,
+  "top_skills": [
+    {
+      "skill": "Communication",
+      "jobs": 59998,
+      "pct_jobs": 48.44
+    },
+    {
+      "skill": "Leadership",
+      "jobs": 29355,
+      "pct_jobs": 23.7
+    },
+    {
+      "skill": "Sales",
+      "jobs": 28777,
+      "pct_jobs": 23.24
+    },
+    {
+      "skill": "Customer service",
+      "jobs": 24985,
+      "pct_jobs": 20.17
+    },
+    {
+      "skill": "Excel",
+      "jobs": 17740,
+      "pct_jobs": 14.32
+    },
+    {
+      "skill": "Project management",
+      "jobs": 10229,
+      "pct_jobs": 8.26
+    },
+    {
+      "skill": "Nursing",
+      "jobs": 9698,
+      "pct_jobs": 7.83
+    },
+    {
+      "skill": "Accounting",
+      "jobs": 8801,
+      "pct_jobs": 7.11
+    },
+    {
+      "skill": "SQL",
+      "jobs": 5495,
+      "pct_jobs": 4.44
+    },
+    {
+      "skill": "Python",
+      "jobs": 4648,
+      "pct_jobs": 3.75
+    }
+  ],
+  "forecast_status": "evaluated",
+  "forecast_metrics": [
+    {
+      "method": "naive",
+      "mae": 10531.0,
+      "seconds": 2.7722000027097238e-05,
+      "python_peak_bytes": 504,
+      "holdout_days": 7
+    },
+    {
+      "method": "moving_average",
+      "mae": 10592.57142857143,
+      "seconds": 0.00011230999996314495,
+      "python_peak_bytes": 1326,
+      "holdout_days": 7
+    },
+    {
+      "method": "linear_trend",
+      "mae": 10938.513343799057,
+      "seconds": 0.0010517040000195266,
+      "python_peak_bytes": 4020,
+      "holdout_days": 7
+    }
+  ],
+  "decomposition_status": "weekly period=7; exploratory capture pattern, not proven market seasonality"
+}
